@@ -1,8 +1,6 @@
 
 # Superstore Sales Analysis
 
-![Dashboard Preview](screenshots/monthly_revenue_trend.png)
-
 ## Project Overview
 
 This project analyzes retail sales data from a Superstore dataset to uncover business insights related to revenue, profitability, product performance, and regional sales trends.
