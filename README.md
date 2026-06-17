@@ -115,20 +115,16 @@ Generated actionable recommendations based on findings.
 ## Visualizations
 
 ### Monthly Revenue Trend
-
-![Monthly Revenue Trend](screenshots/Monthly%20Revenue%20Trend.png)
+![Monthly Revenue Trend](screenshots/monthly_revenue_trend.png)
 
 ### Sales by Region
-
-![Sales by Region](screenshots/Sales%20by%20region.png)
+![Sales by Region](screenshots/sales_by_region.png)
 
 ### Profit by Category
-
-![Profit by Category](screenshots/Profit%20by%20category.png)
+![Profit by Category](screenshots/profit_by_category.png)
 
 ### Top 10 Products by Sales
-
-![Top Products](screenshots/Top%2010%20products%20by%20sales.png)
+![Top Products](screenshots/top_products.png)
 
 ### Revenue Trends
 
