@@ -1,4 +1,7 @@
+
 # Superstore Sales Analysis
+
+![Dashboard Preview](screenshots/monthly_revenue_trend.png)
 
 ## Project Overview
 
