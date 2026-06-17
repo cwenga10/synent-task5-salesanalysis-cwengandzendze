@@ -96,6 +96,31 @@ Generated actionable recommendations based on findings.
 ---
 
 ## Key Findings
+## Key Results
+
+- Total records analyzed: 9,994
+- Highest performing region: West
+- Most profitable category: Technology
+- Best sales month: November 2017
+- Lowest performing region: South
+- 
+## Visualizations
+
+### Monthly Revenue Trend
+
+![Monthly Revenue Trend](screenshots/Monthly%20Revenue%20Trend.png)
+
+### Sales by Region
+
+![Sales by Region](screenshots/Sales%20by%20region.png)
+
+### Profit by Category
+
+![Profit by Category](screenshots/Profit%20by%20category.png)
+
+### Top 10 Products by Sales
+
+![Top Products](screenshots/Top%2010%20products%20by%20sales.png)
 
 ### Revenue Trends
 
