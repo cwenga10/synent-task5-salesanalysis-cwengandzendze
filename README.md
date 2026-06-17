@@ -1,83 +1,153 @@
 # Superstore Sales Analysis
 
-## Problem Statement
+## Project Overview
 
-The objective of this project is to analyze historical retail sales data to identify business trends, evaluate product and category performance, and generate actionable recommendations for improving revenue and profitability.
+This project analyzes retail sales data from a Superstore dataset to uncover business insights related to revenue, profitability, product performance, and regional sales trends.
 
-## Dataset Details
+The objective was to transform raw sales data into actionable business recommendations using Python and data analytics techniques.
+
+This project was completed as part of my Data Science Internship at Synent Technologies.
+
+---
+
+## Business Problem
+
+Organizations generate large amounts of sales data, but decision-makers need meaningful insights to improve profitability and business performance.
+
+This project aims to answer key business questions:
+
+* Which regions generate the most revenue and profit?
+* Which products perform best?
+* Which product categories are most profitable?
+* How do sales change over time?
+* What business actions could improve performance?
+
+---
+
+## Dataset
 
 Dataset: Sample Superstore Dataset
 
-The dataset contains 9,994 sales transactions and 21 variables, including:
+The dataset contains retail transaction records including:
 
-* Order Date
-* Product Name
-* Category
-* Region
+* Order information
+* Product details
+* Customer information
 * Sales
 * Profit
 * Quantity
-* Discount
+* Discounts
+* Regional data
 
-The dataset was examined for data quality issues and was found to contain no missing values or duplicate records.
+Dataset Size:
 
-## Approach
+* 9,994 records
+* 21 columns
 
-The analysis was performed using Python in Google Colab with the following libraries:
+---
 
+## Tools & Technologies
+
+* Python
 * Pandas
+* NumPy
 * Matplotlib
+* Jupyter Notebook
 
-### Steps Performed
+---
 
-1. Loaded and explored the dataset.
-2. Conducted data quality assessment.
-3. Analyzed monthly revenue trends.
-4. Identified top-performing products by sales.
-5. Evaluated profitability by product category.
-6. Compared sales performance across regions.
-7. Developed business recommendations based on findings.
+## Project Workflow
 
-## Results
+### 1. Data Loading & Inspection
 
-### Monthly Revenue Trend
+* Imported dataset
+* Examined structure and data types
+* Identified potential data quality issues
 
-* Revenue showed an overall upward trend from 2014 to 2017.
-* Sales peaked during late 2017, indicating strong business growth.
-* Year-end periods consistently recorded higher sales volumes.
+### 2. Data Cleaning
 
-### Top Products by Sales
+* Checked for missing values
+* Checked for duplicate records
+* Converted date columns for time-series analysis
 
-* Canon imageCLASS 2200 Advanced Copier was the highest-selling product.
-* Technology and office equipment products dominated the top-selling product list.
+### 3. Exploratory Data Analysis (EDA)
 
-### Profit by Category
+Performed analysis on:
 
-* Technology generated the highest profit ($145,455).
-* Office Supplies generated the second-highest profit ($122,491).
-* Furniture produced significantly lower profit ($18,451).
+* Monthly Revenue Trends
+* Regional Sales Performance
+* Product Performance
+* Category Profitability
+* Profit Analysis
 
-### Sales by Region
+### 4. Data Visualization
 
-* West region generated the highest sales revenue ($725,458).
-* East region was the second strongest performer.
-* South region generated the lowest sales revenue ($391,722).
+Created visualizations to identify:
+
+* Sales patterns
+* Top-performing products
+* Regional performance
+* Profitability trends
+
+### 5. Business Recommendations
+
+Generated actionable recommendations based on findings.
+
+---
+
+## Key Findings
+
+### Revenue Trends
+
+* Sales showed significant variation across months.
+* November recorded the highest sales performance.
+
+### Regional Analysis
+
+* The West region generated the highest revenue and profit.
+* The South region recorded the lowest sales performance.
+
+### Category Analysis
+
+* Technology was the most profitable category.
+* Furniture generated strong sales but comparatively lower profit margins.
+
+### Product Performance
+
+* Several products contributed significantly to overall revenue.
+* High-selling products were identified for potential business focus.
+
+---
 
 ## Business Recommendations
 
 1. Increase investment in Technology products due to strong profitability.
-2. Review pricing and discount strategies for Furniture products.
-3. Implement growth initiatives in the South region.
-4. Replicate successful sales strategies from the West region.
-5. Focus promotional campaigns during peak seasonal periods.
 
-## Tools Used
+2. Review pricing and discount strategies for Furniture products to improve profit margins.
 
-* Python
-* Pandas
-* Matplotlib
-* Google Colab
+3. Implement targeted growth initiatives in lower-performing regions.
+
+4. Plan marketing campaigns around peak-performing months to maximize revenue opportunities.
+
+---
+
+## Future Improvements
+
+Future enhancements could include:
+
+* Interactive Power BI Dashboard
+* Customer Segmentation Analysis
+* Sales Forecasting Models
+* Profit Prediction using Machine Learning
+* Real-time Business Intelligence Dashboard
+
+---
 
 ## Author
 
-Cwenga
+Cwenga Ndzendze
+
+Final-Year Computer Engineering Student
+
+SQL Advanced Certified | Data Analytics | Cybersecurity | Python | Power BI
+
