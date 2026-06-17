@@ -103,7 +103,15 @@ Generated actionable recommendations based on findings.
 - Most profitable category: Technology
 - Best sales month: November 2017
 - Lowest performing region: South
-- 
+
+  ## Project Results
+
+- Analyzed 9,994 retail sales transactions
+- Identified the West region as the highest-performing region
+- Found Technology to be the most profitable category
+- Determined November 2017 as the strongest sales month
+- Generated business recommendations to improve profitability
+  
 ## Visualizations
 
 ### Monthly Revenue Trend
